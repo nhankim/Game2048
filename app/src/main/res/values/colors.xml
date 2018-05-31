@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="white">#FFF</color>
+    <color name="okhongcoso">#272346</color>
+    <array name="mautungoso">
+        <item>#8180D7</item>
+        <item>#A25AD6</item>
+        <item>#2669DD</item>
+        <item>#21B9D5</item>
+        <item>#00CA9B</item>
+        <item>#43CF17</item>
+        <item>#F7C001</item>
+        <item>#F58114</item>
+        <item>#FF543D</item>
+        <item>#FF1491</item>
+        <item>#FF143B</item>
+        <item>#a6030a</item>
+    </array>
+</resources>
